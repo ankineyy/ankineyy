@@ -12,7 +12,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=1500&pause=1000&width=435&lines=Hello+world!;I+am+Thinh+312;Nice+to+meet+you" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=1500&pause=1000&width=435&lines=Hello+world!;" alt="Typing SVG">
     </a>
 </div>
 <p align="center"><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="100">
@@ -20,12 +20,12 @@
 <!--
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinh1203&show_icons=true&theme=highcontrast)  -->
 
- ### 🚀 Quick Stats ![](https://komarev.com/ghpvc/?username=Thinh1203&color=green)
+ ### 🚀 Quick Stats ![](https://komarev.com/ghpvc/?username=ankineyy&color=green)
   
 <p align="left"> 
-  <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=Thinh1203&count_private=true&show_icons=true&theme=highcontrast" alt="zcrossover's Github Stats" />
+  <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=ankineyy&count_private=true&show_icons=true&theme=highcontrast" alt="zcrossover's Github Stats" />
 <img height="186" align="center" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinh1203&layout=compact&theme=dark" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankineyy&layout=compact&theme=dark" />
 </p>
 
 ### 🙆‍♂️ Overview
