@@ -87,10 +87,12 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
 </div>
+<!--
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Thinh1203/count.svg" />
+  <img src="https://profile-counter.glitch.me/ankineyy/count.svg" />
 </p>
+-->
 
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <!--
